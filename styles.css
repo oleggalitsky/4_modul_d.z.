@@ -17,3 +17,16 @@ h1 {
     font-weight: bold;
     font-family: 'Courier New';
 }
+.paragraph-4 {
+    font-size: 24px;
+    transform: skew(15deg);
+    text-align: center;
+    text-shadow: 2px 2px 2px rgb(4, 128, 0);
+}
+.paragraph-5 {
+    font-size: 24px;
+    transform: skew(-20deg);
+    text-align: center;
+    text-shadow: 4px 4px 2px blueviolet;
+
+}
