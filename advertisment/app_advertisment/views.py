@@ -3,7 +3,7 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse('<h1>Это мой первый сайт!!!</h1>')
+    return HttpResponse('Это мой первый сайт!!!')
 
 
 
